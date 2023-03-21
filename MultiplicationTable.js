@@ -11,9 +11,3 @@ function multiplicationTable(num){
 multiplicationTable(5);
 multiplicationTable(10);
 
-
-// another way of getting result 
-
-let result = multiplicationTable(15); 
-console.log(result);
-
